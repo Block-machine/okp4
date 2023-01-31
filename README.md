@@ -14,3 +14,4 @@ It works in testnet and there is no correct data (like token price, number of de
 When mainnet will be started all data will be displayed like this:
 
 ([http://url/to/img.png](https://user-images.githubusercontent.com/72254723/215843073-07be285a-868d-43fc-ae18-8d065d477447.png))
+<img src='https://user-images.githubusercontent.com/2853158/208320040-6e086387-d3e5-47d6-b52f-1446b7af0641.png'>
