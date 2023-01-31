@@ -3,7 +3,7 @@
 * [http://okp4.blockmachine.pro/](http://okp4.blockmachine.pro/) - link to the tool
 
 ## Overview: What for this tool
-To monitor the number of delegations of your validator for every month
+To monitor the number of delegations of your OKP4 validator for every month.
 
 ## How to use
 * Go to link [http://okp4.blockmachine.pro/](http://okp4.blockmachine.pro/)
